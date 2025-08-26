@@ -6,6 +6,7 @@ Streamlit과 LangChain Upstage 기반의 페르소나 챗봇 프로젝트입니�
 ---
 
 ## 📂 프로젝트 구조
+```markdown
 streamlit-LLM_Chatbot/
 │
 ├─ app.py # Streamlit 앱 메인
@@ -13,6 +14,7 @@ streamlit-LLM_Chatbot/
 ├─ requirements.txt # 프로젝트 패키지 및 버전
 ├─ README.md
 └─ venv/ # 가상환경
+```
 
 ## ⚡ 주요 기능
 
